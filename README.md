@@ -1,5 +1,5 @@
 # Hi 👋, I am Nitin Thakur
-**A passionate Web Developer || Software Developer**
+**A Passionate Software Developer**
 
 Email Me 👉 ✉️ **nitinthakur46323@gmail.com** For Collaboration/Project or Anything Else.
 
