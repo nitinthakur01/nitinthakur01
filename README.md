@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **nitinthakur46323@gmail.com** For Collaboration/Project or
 
 - 🔭 **I’m currently working on:** Social media app
 - 🌱 **I’m currently learning:** Mern stack developement
-- 💙 **My portfolio:** https://nitin-thakur-portfolio.netlify.app/
+- 💙 **My portfolio:** https://nitin-thakur-portfolio01.netlify.app
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nitinthakur46323@gmail.com
 - ⚡ **My aim:** To became a Web Developer
