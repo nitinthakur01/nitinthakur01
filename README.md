@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **nitinthakur46323@gmail.com** For Collaboration/Project or
 - 💙 **My portfolio:** https://nitin-thakur-portfolio01.netlify.app
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nitinthakur46323@gmail.com
-- ⚡ **My aim:** To became a Web Developer
+- ⚡ **My aim:** To became a Software Developer
 - 🤝 **Let's connect on:** https://www.linkedin.com/in/nitinthakur01/
 
 
