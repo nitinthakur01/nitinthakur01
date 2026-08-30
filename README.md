@@ -1,5 +1,5 @@
 # Hi 👋, I am Nitin Thakur
-**A Passionate Software Developer**
+**A Passionate Full Stack AI Developer**
 
 Email Me 👉 ✉️ **nitinthakur46323@gmail.com** For Collaboration/Project or Anything Else.
 
