@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **nitinthakur46323@gmail.com** For Collaboration/Project or Anything Else.
 
-- 🔭 **I’m currently working on:** Social media app
-- 🌱 **I’m currently learning:** Mern stack developement
+- 🔭 **I’m currently working on:** AI Career Saas App
+- 🌱 **I’m currently learning:** Full Stack AI Developement
 - 💙 **My portfolio:** https://nitin-thakur-portfolio01.netlify.app
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nitinthakur46323@gmail.com
-- ⚡ **My aim:** To became a Software Developer
+- ⚡ **My aim:** To became a Full Stack AI Developer
 - 🤝 **Let's connect on:** https://www.linkedin.com/in/nitinthakur01/
 
 
